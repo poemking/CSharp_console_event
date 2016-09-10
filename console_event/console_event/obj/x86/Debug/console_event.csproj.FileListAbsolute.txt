@@ -1,0 +1,4 @@
+D:\Ptactice\console_event\console_event\bin\Debug\console_event.exe
+D:\Ptactice\console_event\console_event\bin\Debug\console_event.pdb
+D:\Ptactice\console_event\console_event\obj\x86\Debug\console_event.exe
+D:\Ptactice\console_event\console_event\obj\x86\Debug\console_event.pdb
